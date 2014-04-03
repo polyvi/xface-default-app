@@ -4,3 +4,6 @@
 
 
  *  Set VERSION to 3.2.0-rc3 (via xsrc)
+
+
+## 3.2.0 (Thu Apr 03 2014)
